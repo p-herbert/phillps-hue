@@ -1,0 +1,8 @@
+{
+    "uid": "phillps-hue",
+    "append": true,
+    "watch": true,
+    "script": "index.js",
+    "sourceDir": "/Users/PeterHerbert/Documents/Development/phillps-hue",
+    "args": ["--require", "dotenv/config"]
+}
